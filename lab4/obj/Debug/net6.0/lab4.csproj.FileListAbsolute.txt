@@ -1,0 +1,15 @@
+/Users/tarik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.csproj.AssemblyReference.cache
+/Users/tarik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.AssemblyInfoInputs.cache
+/Users/tarik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.AssemblyInfo.cs
+/Users/tarik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/lab4/lab4/bin/Debug/net6.0/lab4
+/Users/tarik/Projects/lab4/lab4/bin/Debug/net6.0/lab4.deps.json
+/Users/tarik/Projects/lab4/lab4/bin/Debug/net6.0/lab4.runtimeconfig.json
+/Users/tarik/Projects/lab4/lab4/bin/Debug/net6.0/lab4.dll
+/Users/tarik/Projects/lab4/lab4/bin/Debug/net6.0/ref/lab4.dll
+/Users/tarik/Projects/lab4/lab4/bin/Debug/net6.0/lab4.pdb
+/Users/tarik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.dll
+/Users/tarik/Projects/lab4/lab4/obj/Debug/net6.0/ref/lab4.dll
+/Users/tarik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.pdb
+/Users/tarik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.genruntimeconfig.cache
